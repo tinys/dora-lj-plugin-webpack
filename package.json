@@ -1,6 +1,6 @@
 {
-  "name": "dora-plugin-webpack",
-  "version": "0.8.1",
+  "name": "dora-lj-plugin-webpack",
+  "version": "1.0.1",
   "description": "dora plugin for webpack",
   "repository": {
     "type": "git",
@@ -29,7 +29,7 @@
     "lodash.isequal": "^4.1.1"
   },
   "devDependencies": {
-    "atool-build": "0.x",
+    "ljtool-build": "^1.0.0",
     "babel-cli": "^6.7.5",
     "babel-core": "^6.7.6",
     "babel-eslint": "^6.1.2",

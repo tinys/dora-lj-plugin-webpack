@@ -1,6 +1,6 @@
-import mergeCustomConfig from 'atool-build/lib/mergeCustomConfig';
-import getWebpackCommonConfig from 'atool-build/lib/getWebpackCommonConfig';
-import webpack, { ProgressPlugin } from 'atool-build/lib/webpack';
+import mergeCustomConfig from 'ljtool-build/lib/mergeCustomConfig';
+import getWebpackCommonConfig from 'ljtool-build/lib/getWebpackCommonConfig';
+import webpack, { ProgressPlugin } from 'ljtool-build/lib/webpack';
 import { join, resolve } from 'path';
 import chalk from 'chalk';
 import chokidar from 'chokidar';
